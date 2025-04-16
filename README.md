@@ -39,14 +39,18 @@ The proposed system uses a CNN architecture tailored for fetal health prediction
 [1] Subrota, Mazumdar., Rohit, Choudhary., Aleena, Swetapadma. (2017). An innovative
 method for fetal health monitoring based on artificial neural network using cardiotocography
 measurements. 265-268. doi: 10.1109/ICRCICN.2017.8234518
+
 [2] Mehdi, Fasihi., Mohammad, H., Nadimi-Shahraki., Ali, Jannesari. (2021). 5. A Shallow 1-
 D Convolution Neural Network for Fetal State Assessment Based on Cardiotocogram. doi:
 10.1007/S42979-021-00694-6
+
 [3] Shen, Liyue, et al. "Deep learning with attention to predict gestational age of the fetal
 brain." arXiv preprint arXiv:1812.07102 (2018).
+
 [4] Jiarui, Feng., Jennifer, Lee., Zachary, A., Vesoulis., Fuhai, Li. (2021). Predicting mortality
 risk for preterm infants using deep learning models with time-series vital sign data. 4(1) :108-.
 doi: 10.1038/S41746-021-00479-4
+
 [5] Płotka, Szymon, et al. "FetalNet: Multi-task deep learning framework for fetal ultrasound
 biometric measurements." Neural Information Processing: 28th International Conference, ICONIP
 2021, Sanur, Bali, Indonesia, December 8–12, 2021, Proceedings, Part VI 28. Springer
